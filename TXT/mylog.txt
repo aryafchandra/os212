@@ -32,3 +32,7 @@ ZCZC W02 30 L09 Peer review
 ZCZC W02 30 L11 Assignment #1
 ZCZC W02 50 L12 Assignment #2
 ZCZC W02 120 L13 Assignment #3
+ZCZC W02 05 L19 Assignment #9
+ZCZC W02 20 L09 Assignment #11
+ZCZC W02 05 L09 Assignment #12, update log
+ZCZC W02 30 L09 Assignment #13
