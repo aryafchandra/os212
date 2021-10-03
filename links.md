@@ -8,3 +8,5 @@ permalink: /LINKS/
 This website shows the main basic of C language
 2. [File System Basics](https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
 This website shows the basic about file system in operating system
+3. [Dynamix Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)<br>
+This website explain dynamic memory allocation in C using malloc(), calloc(), free(), and realloc()
