@@ -46,3 +46,14 @@ ZCZC W03 05 L16 Assignment #6
 ZCZC W03 05 L17 Assignment #7
 ZCZC W03 05 L18 Assignment #8
 ZCZC W03 05 L19 Assignment #9
+ZCZC W04 20 L05 Quiz
+ZCZC W04 100 L02 OS Class
+ZCZC W04 65 L11 Assignment #01
+ZCZC W04 100 L12 Assignment #02
+ZCZC W04 90 L13 Assignment #03
+ZCZC W04 30 L14 Assignment #04
+ZCZC W04 20 L15 Assignment #05
+ZCZC W04 10 L16 Assignment #06
+ZCZC W04 15 L17 Assignment #07
+ZCZC W04 05 L18 Assignment #08
+ZCZC W04 05 L19 Assignment #09
