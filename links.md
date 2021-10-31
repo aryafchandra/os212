@@ -12,3 +12,5 @@ This website shows the basic about file system in operating system
 This website explain dynamic memory allocation in C using malloc(), calloc(), free(), and realloc()
 4. [Logical and Physical Address](https://www.youtube.com/watch?v=XqusPn2oxwk)
 Explains about logical and physical address
+5. [Fork in C](https://www.youtube.com/watch?v=QD9YKSg3wCc)
+This video explain and visualize fork call in C
