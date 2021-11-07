@@ -14,3 +14,5 @@ This website explain dynamic memory allocation in C using malloc(), calloc(), fr
 Explains about logical and physical address
 5. [Fork in C](https://www.youtube.com/watch?v=QD9YKSg3wCc)
 This video explain and visualize fork call in C
+6. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
+This website explain process synchronization
