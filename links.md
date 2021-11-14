@@ -16,3 +16,5 @@ Explains about logical and physical address
 This video explain and visualize fork call in C
 6. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
 This website explain process synchronization
+7. [Compiling Cross-Toolchain LFS 11.0](https://www.youtube.com/watch?v=xVKFOJQOFWE&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=8)
+This video shows you how to compile cross-toolchain lfs
